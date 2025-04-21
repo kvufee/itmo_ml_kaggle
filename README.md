@@ -9,3 +9,9 @@ Computer vision распознавание лиц. Поиск k-nearest карт
 
 ## HW 4
 Computer vision сегментация изображений на The Oxford IIIT Pet Dataset
+
+## HW 5
+Time Series прогнозирование цен на торгах при помощи LSTM seq2seq and LightGBM + CatBoost
+
+## HW 6
+Optical Character Recognition (OCR), Named Entity Recognition (NER) при помощи Natasha и spaCy
