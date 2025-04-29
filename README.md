@@ -15,3 +15,6 @@ Time Series прогнозирование цен на торгах при по�
 
 ## HW 6
 Optical Character Recognition (OCR), Named Entity Recognition (NER) при помощи Natasha и spaCy
+
+## HW 7
+Q&A Chatbot Using a Pretrained LLM (facebook/opt-1.3B и falcon-1b-stage2)
