@@ -18,3 +18,6 @@ Optical Character Recognition (OCR), Named Entity Recognition (NER) при по�
 
 ## HW 7
 Q&A Chatbot Using a Pretrained LLM (facebook/opt-1.3B и falcon-1b-stage2)
+
+## Final contest
+Computer Vision классификация с задачей на определение возраста человека по фото
